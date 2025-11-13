@@ -4,8 +4,7 @@
 - 🔭 I’m currently working on a Spotify PlayNow Wigdet using Spotify, and a Dynamic Twitch Bot
 - 😄 Pronouns: He / Them
 - 🌱 I’m currently learning Discord Embed and how i can make a bot Dynamically updating the content in the embed
-
-
+- 📫 How to reach me: Twitter (X) @DylanRLive / Instagram @Dylan_R_Live / Email enquiries@dylanroyle.co.uk
 
 
 <!--
