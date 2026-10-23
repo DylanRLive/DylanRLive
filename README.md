@@ -1,17 +1,17 @@
 ## Hi there 👋
 
 
-- 🔭 I’m currently working on a Spotify PlayNow Wigdet using Spotify, and a Dynamic Twitch Bot
+- 🔭 I’m currently working on a Dynamic Twitch Bot
 - 😄 Pronouns: He / Them
-- 🌱 I’m currently learning Discord Embed and how i can make a bot Dynamically updating the content in the embed
-- 📫 How to reach me: Twitter (X) @DylanRLive / Instagram @Dylan_R_Live / Email enquiries@dylanroyle.co.uk
+- 📫 How to reach me: Twitter (X) @DylanRLive / Instagram @DylanRLive / Email enquiries@dylanroyle.co.uk
 
 
 <!--
-**Dylan2Royle/Dylan2Royle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
+- 🌱 I’m currently learning Discord Embed and how i can make a bot Dynamically updating the content in the embed
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
